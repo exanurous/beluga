@@ -8,8 +8,8 @@ Style derived from Gazelle Postmod and BTN SMPTE
 *********************************************************/
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
-@import url(layout.css);
-@import url(permissions/original.css);
+@import url(https://gitcdn.link/cdn/exanurous/beluga/master/layout.css);
+@import url(https://gitcdn.link/cdn/exanurous/beluga/master/permissions/original.css);
 
 
 /* Fix for additional searchbar box */
