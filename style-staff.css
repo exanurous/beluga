@@ -1,0 +1,18 @@
+/********************************************************
+------------------------ Beluga -------------------------
+Design: apopagasm
+CSS: Exanurous
+Version: 1.1;
+Bug Reports: forums.php?action=viewthread&threadid=16899;
+Style derived from Gazelle Postmod and BTN SMPTE
+*********************************************************/
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(layout.css);
+@import url(permissions/original.css);
+
+
+/* Fix for additional searchbar box */
+#searchbars input {
+    width: 114.7px;
+}
